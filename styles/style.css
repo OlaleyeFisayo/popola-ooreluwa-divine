@@ -444,6 +444,9 @@ nav .bar {
   overflow: hidden;
   margin-top: 3rem;
 }
+#about .gallery img {
+  object-fit: fill;
+}
 #about .gallery .gallary-container {
   align-items: center;
   display: flex;
