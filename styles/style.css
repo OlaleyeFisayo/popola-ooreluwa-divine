@@ -532,7 +532,7 @@ nav .bar {
   width: 5px;
 }
 #about .gallery .gallery-controls-previous:hover::before {
-  left: 40px;
+  left: -40px;
 }
 #about .gallery .gallery-controls-next {
   position: relative;
